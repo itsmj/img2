@@ -1,1 +1,1 @@
-# img2
+# Python & Django certificate
